@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>博客书写练习</title>
+    <url>/blog/2020/07/01/my-first-blog/</url>
+    <content><![CDATA[<h1 id="庚子年五月十一"><a href="#庚子年五月十一" class="headerlink" title="庚子年五月十一"></a>庚子年五月十一</h1><p>此站第一条博客</p>
+<a id="more"></a>
+
+<h2 id="最爱日漫"><a href="#最爱日漫" class="headerlink" title="最爱日漫"></a>最爱日漫</h2><h3 id="灌篮高手"><a href="#灌篮高手" class="headerlink" title="灌篮高手"></a>灌篮高手</h3><ul>
+<li>陵南队</li>
+<li>湘北队<br>  sf 流川枫<br>  pf 樱木花道</li>
+<li>山王队    </li>
+</ul>
+<hr>
+<p><a href="https://jeromez49.github.io/blog/" target="_blank" rel="noopener">我的主页</a> </p>
+<p><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1593688015770&di=a5fc2d2efdea8b12f011beb5ad6e24ca&imgtype=0&src=http%3A%2F%2Fhbimg.huabanimg.com%2F09b4744798df5ce348d464ecd05615b9ec08ad71488d8-RBPCMe_fw658" alt="我的背景"></p>
+<p><em>安西教练</em><br><strong>三井寿</strong></p>
+<hr>
+<p><code>&lt;html&gt;&lt;/html&gt;</code></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;html&gt;</span><br><span class="line">    &lt;head&gt;</span><br><span class="line">        &lt;title&gt;标题&lt;&#x2F;title&gt;</span><br><span class="line">    &lt;&#x2F;head&gt;</span><br><span class="line">    &lt;body&gt;&lt;&#x2F;body&gt;</span><br><span class="line">&lt;&#x2F;html&gt;</span><br></pre></td></tr></table></figure>
+<hr>
+<blockquote>
+<p>此文系引用</p>
+</blockquote>
+<hr>
+<p>打赏 You can reward me :<br><a href="https://www.paypal.me/jeromezhou9849" target="_blank" rel="noopener">PayPal me</a></p>
+]]></content>
+      <categories>
+        <category>草稿</category>
+      </categories>
+      <tags>
+        <tag>练习</tag>
+        <tag>博客书写</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/blog/2020/07/01/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<a id="more"></a>
+
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+</search>
