@@ -19,6 +19,9 @@
 <p><code>&lt;html&gt;&lt;/html&gt;</code></p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;html&gt;</span><br><span class="line">    &lt;head&gt;</span><br><span class="line">        &lt;title&gt;标题&lt;&#x2F;title&gt;</span><br><span class="line">    &lt;&#x2F;head&gt;</span><br><span class="line">    &lt;body&gt;&lt;&#x2F;body&gt;</span><br><span class="line">&lt;&#x2F;html&gt;</span><br></pre></td></tr></table></figure>
 <hr>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># Google Calendar</span><br><span class="line"># Share your recent schedule to others via calendar page.</span><br><span class="line">calendar:</span><br><span class="line">  calendar_id: &lt;required&gt; # Your Google account E-Mail</span><br><span class="line">  api_key: &lt;required&gt;</span><br><span class="line">  orderBy: startTime</span><br><span class="line">  offsetMax: 24 # Time Range</span><br><span class="line">  offsetMin: 4 # Time Range</span><br><span class="line">  showDeleted: false</span><br><span class="line">  singleEvents: true</span><br><span class="line">  maxResults: 250</span><br></pre></td></tr></table></figure>
+
+<hr>
 <blockquote>
 <p>此文系引用</p>
 </blockquote>
