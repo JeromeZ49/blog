@@ -5,9 +5,9 @@
   <subtitle>stargazer</subtitle>
   <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="https://jerome49z.space/"/>
+  <link href="https://jerome49z.space/blog/"/>
   <updated>2020-07-05T08:32:11.251Z</updated>
-  <id>https://jerome49z.space/</id>
+  <id>https://jerome49z.space/blog/</id>
   
   <author>
     <name>Jerome Zhou</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>My Space</title>
-    <link href="https://jerome49z.space/2020/07/04/My-Space/"/>
-    <id>https://jerome49z.space/2020/07/04/My-Space/</id>
+    <link href="https://jerome49z.space/blog/2020/07/04/My-Space/"/>
+    <id>https://jerome49z.space/blog/2020/07/04/My-Space/</id>
     <published>2020-07-04T07:44:01.858Z</published>
     <updated>2020-07-05T08:32:11.251Z</updated>
     
@@ -38,19 +38,19 @@
     </summary>
     
     
-      <category term="封面" scheme="https://jerome49z.space/categories/%E5%B0%81%E9%9D%A2/"/>
+      <category term="封面" scheme="https://jerome49z.space/blog/categories/%E5%B0%81%E9%9D%A2/"/>
     
     
-      <category term="stargazer" scheme="https://jerome49z.space/tags/stargazer/"/>
+      <category term="stargazer" scheme="https://jerome49z.space/blog/tags/stargazer/"/>
     
-      <category term="Russell Westbrook" scheme="https://jerome49z.space/tags/Russell-Westbrook/"/>
+      <category term="Russell Westbrook" scheme="https://jerome49z.space/blog/tags/Russell-Westbrook/"/>
     
   </entry>
   
   <entry>
     <title>Writing</title>
-    <link href="https://jerome49z.space/2020/07/01/Writing/"/>
-    <id>https://jerome49z.space/2020/07/01/Writing/</id>
+    <link href="https://jerome49z.space/blog/2020/07/01/Writing/"/>
+    <id>https://jerome49z.space/blog/2020/07/01/Writing/</id>
     <published>2020-07-01T14:16:16.000Z</published>
     <updated>2020-07-04T07:48:46.992Z</updated>
     
@@ -63,12 +63,12 @@
     </summary>
     
     
-      <category term="草稿" scheme="https://jerome49z.space/categories/%E8%8D%89%E7%A8%BF/"/>
+      <category term="草稿" scheme="https://jerome49z.space/blog/categories/%E8%8D%89%E7%A8%BF/"/>
     
     
-      <category term="练习" scheme="https://jerome49z.space/tags/%E7%BB%83%E4%B9%A0/"/>
+      <category term="练习" scheme="https://jerome49z.space/blog/tags/%E7%BB%83%E4%B9%A0/"/>
     
-      <category term="博客书写" scheme="https://jerome49z.space/tags/%E5%8D%9A%E5%AE%A2%E4%B9%A6%E5%86%99/"/>
+      <category term="博客书写" scheme="https://jerome49z.space/blog/tags/%E5%8D%9A%E5%AE%A2%E4%B9%A6%E5%86%99/"/>
     
   </entry>
   
